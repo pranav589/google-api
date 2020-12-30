@@ -1,5 +1,5 @@
 import React from 'react';
-import { useGoogleLogout ,UseGoogleLoginResponse} from 'react-google-login';
+import { useGoogleLogout} from 'react-google-login';
 import{useHistory} from 'react-router-dom'
 const clientId =
   '211391100044-h1s66co3lvpth08oru5irh4mkgk49546.apps.googleusercontent.com';
